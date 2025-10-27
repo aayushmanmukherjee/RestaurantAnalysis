@@ -43,6 +43,6 @@ The dataset was collected from Kaggle. The dataset shows Zomato restaurants (all
 ## All the important links
 - ### [SQL file link](https://raw.githubusercontent.com/aayushmanmukherjee/RestaurantAnalysis/refs/heads/main/queries.sql)
 - ### [Tableau dashboard link](https://public.tableau.com/views/ghy_restaurants_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- ### [Jupyter notebook link](https://raw.githubusercontent.com/aayushmanmukherjee/RestaurantAnalysis/refs/heads/main/analysis.ipynb)
+- ### [Jupyter notebook link](https://github.com/aayushmanmukherjee/RestaurantAnalysis/blob/main/analysis.ipynb)
 
 
