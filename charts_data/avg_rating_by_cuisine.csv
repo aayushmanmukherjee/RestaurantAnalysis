@@ -1,0 +1,292 @@
+cuisines,avg_rating
+"North Indian, Mediterranean",4.9
+"Assamese, Naga",4.8
+"Cafe, Continental, Chinese",4.7
+"Chinese, Biryani, Desserts",4.6
+"Cafe, Italian",4.6
+"Chinese, Seafood",4.6
+"Assamese, Chinese, Naga, Beverages",4.5
+"Cafe, Momos",4.4
+"Biryani, Chinese, Mongolian",4.4
+"Italian, Continental, Asian, Modern Indian, Pizza",4.4
+"Chinese, Thai, Japanese, Asian, Momos",4.3
+"North Indian, Continental, Chinese, Japanese",4.3
+"Rolls, Bakery, European",4.3
+"Rolls, Momos, Burger",4.3
+"Continental, Chinese",4.3
+"Mughlai, North Indian",4.3
+"Fast Food, Chinese, Pizza",4.3
+"Asian, Chinese, Tibetan, Momos",4.3
+"Chinese, Thai, Momos",4.3
+"Chinese, Thai",4.2
+"North Eastern",4.2
+"Mexican, Continental, Italian",4.2
+"North Eastern, Assamese",4.2
+"Chinese, Naga, Biryani, Tibetan, Momos",4.2
+"Cafe, Mediterranean, Chinese",4.2
+"Salad, Sandwich, Healthy Food",4.2
+"Beverages, Chinese, South Indian, Ice Cream",4.2
+"Fast Food, Chinese, Continental, Burger, Sandwich, Pizza, Rolls",4.2
+"Chinese, Italian, Fast Food, Momos",4.2
+"European, Mediterranean, North Indian, BBQ",4.2
+"Thai, Japanese, Chinese, Momos",4.2
+"Continental, Fast Food, Chinese, Mexican",4.2
+"Seafood, Thai, European",4.2
+"Cafe, Continental, North Indian, Italian, Chinese, Biryani",4.1
+"Chinese, Biryani",4.1
+"Pizza, Cafe",4.1
+"North Indian, Continental",4.1
+"Continental, Italian, Indian, Asian",4.1
+"Momos, Chinese",4.1
+"Chinese, North Indian, South Indian, Continental",4.1
+"South Indian, North Indian, Chinese, Mithai",4.1
+"Cafe, North Eastern, Asian, Continental",4.1
+"North Indian, Salad, Continental",4.1
+"Cafe, Juices, Continental, Desserts, Salad, Italian",4.0
+"Chinese, Japanese",4.0
+"North Indian, Continental, Momos",4.0
+"Desserts, Ice Cream, Bakery",4.0
+"Cafe, North Indian, Chinese, Continental",4.0
+"Continental, Italian, Chinese",4.0
+"Continental, North Indian, Chinese, Arabian, Thai, Momos",4.0
+"Japanese, Fast Food",4.0
+"Rolls, Fast Food",4.0
+"Continental, Chinese, Thai, Italian, North Indian",4.0
+"Bengali, Bangladeshi",4.0
+"North Indian, Rolls, Chinese",4.0
+"Cafe, Chinese, Assamese, Continental, Thai, South Indian, Italian, North Indian",4.0
+"Beverages, Fast Food, Sandwich",4.0
+Seafood,4.0
+"Tibetan, Momos",4.0
+"Chinese, North Indian, Rolls",4.0
+"North Indian, Continental, Asian",4.0
+"Cafe, Continental, Italian, Beverages, Fast Food",4.0
+"South Indian, Fast Food, North Indian",4.0
+"Bakery, Desserts, Beverages",4.0
+"South Indian, Street Food, Fast Food",3.9
+"Cafe, American, Italian, Continental",3.9
+"Chinese, Continental, American, Mexican, Italian, Israeli",3.9
+"Beverages, Desserts, Ice Cream",3.9
+"North Indian, Chinese, Italian, Assamese, Continental",3.9
+"Pizza, Fast Food, Italian",3.9
+"North Indian, Continental, Chinese, Cafe",3.9
+"Fast Food, Bakery, Desserts, Momos",3.9
+"North Indian, Biryani",3.9
+"Burger, Fast Food",3.9
+"Fast Food, Tibetan, Momos",3.9
+"Burger, Rolls, Momos",3.9
+"Cafe, Fast Food, North Indian, Italian",3.9
+"Assamese, Healthy Food",3.9
+"Chinese, Momos",3.9
+"Cafe, Sandwich, Fast Food, North Indian",3.9
+"Asian, Chinese, Continental, North Indian",3.9
+"Chinese, North Indian, Mughlai",3.9
+"North Indian, Mughlai, Kebab",3.9
+"Assamese, Rolls",3.9
+"Desserts, Ice Cream",3.9
+"North Indian, Chinese, Momos",3.9
+"Tea, Fast Food",3.8
+"Assamese, Chinese, Momos",3.8
+"Finger Food, Continental",3.8
+"Mediterranean, Middle Eastern, Lebanese, Beverages, Healthy Food, BBQ",3.8
+"North Indian, Fast Food, Chinese",3.8
+"Tibetan, Chinese, Momos",3.8
+"Assamese, Naga, Chinese",3.8
+"North Indian, Continental, Assamese",3.8
+"Pizza, Fast Food",3.8
+"Fast Food, Rolls, Momos",3.8
+"Indian, Chinese, Momos",3.8
+"Thai, Chinese, North Indian, South Indian, Continental",3.8
+"Chinese, Cafe, Italian, North Indian",3.8
+"North Indian, North Eastern, Chinese, Bengali",3.8
+"Street Food, North Indian, Chinese, Assamese",3.8
+Asian,3.8
+"Continental, Chinese, Mongolian, North Indian",3.8
+"Asian, Chinese, North Indian",3.8
+"Fast Food, Sandwich, Tea",3.8
+"Cafe, Continental, French, Indian, Asian",3.8
+"South Indian",3.8
+"Pizza, Italian",3.8
+Naga,3.8
+"Continental, North Indian, Asian, Mughlai",3.8
+"Finger Food, North Indian",3.8
+Continental,3.8
+"North Indian, South Indian, Chinese, Street Food",3.7
+"North Indian, Italian, Chinese",3.7
+"Chinese, Rolls",3.7
+"North Indian, Biryani, Chinese, Mughlai",3.7
+"North Indian, Chinese, Biryani",3.7
+"Cafe, Tea",3.7
+"North Eastern, Continental",3.7
+"Chinese, Momos, Rolls",3.7
+"Naga, Chinese",3.7
+"Bengali, North Indian",3.7
+"Chinese, North Indian, Biryani",3.7
+Assamese,3.7
+"Continental, Chinese, North Indian",3.7
+"Cafe, Fast Food",3.7
+"South Indian, North Indian, Chinese, Continental, Momos",3.7
+"North Indian, Assamese",3.7
+"Street Food, Mishti",3.7
+"Cafe, Fast Food, Momos",3.7
+"North Indian, Biryani, Chinese",3.7
+"Biryani, North Indian, Rolls, Momos",3.7
+"Chinese, Biryani, Lebanese, North Indian",3.7
+"South Indian, North Indian, Chinese, Momos",3.7
+Bengali,3.7
+"Bakery, Burger, Desserts",3.7
+"Mithai, Fast Food, North Indian, South Indian, Street Food",3.7
+"North Eastern, North Indian, Chinese",3.6
+"Chinese, Continental, North Indian",3.6
+"Naga, Chinese, North Indian",3.6
+"Chinese, North Indian, Fast Food",3.6
+"Naga, Cafe",3.6
+"Fast Food, Tea",3.6
+"Biryani, North Indian",3.6
+"Healthy Food, Cafe, Mexican",3.6
+"Biryani, Chinese, North Indian",3.6
+Rolls,3.6
+Burger,3.6
+"South Indian, Mithai",3.6
+"North Indian, Chinese, Italian",3.6
+"North Indian, Continental, Chinese, Assamese",3.6
+"Cafe, Healthy Food",3.6
+"Beverages, Desserts",3.5
+"Asian, North Indian",3.5
+Biryani,3.5
+"North Indian, Chinese, Fast Food",3.5
+"Chinese, Fast Food, North Indian",3.5
+"Chinese, North Indian, Momos",3.5
+"Mughlai, Chinese, North Indian",3.5
+"Cafe, Fast Food, Italian",3.5
+"Pizza, Italian, Continental, Fast Food",3.5
+"North Eastern, Momos",3.5
+"Mithai, Desserts, Street Food",3.5
+"Bengali, Chinese",3.5
+"French, Indian, Mediterranean",3.5
+"North Indian, European, Continental",3.5
+"Bakery, Cafe",3.5
+"Fast Food, Street Food",3.5
+"Ice Cream",3.5
+"North Indian, Continental, Chinese",3.5
+"South Indian, Assamese",3.5
+"North Indian, South Indian, Chinese, Continental, Mithai",3.5
+"Rolls, Momos",3.4
+"Burger, Cafe, Fast Food, Finger Food, French, Mexican",3.4
+"Healthy Food, Salad",3.4
+"Chinese, North Indian",3.4
+"Finger Food, North Indian, Chinese",3.4
+"Juices, Sandwich, Momos, Rolls, Salad, Desserts",3.4
+"North Indian, Chinese, Assamese",3.4
+"Cafe, Pizza",3.4
+"South Indian, Fast Food",3.4
+"Assamese, Bakery, Arabian, Andhra, Bangladeshi, African",3.4
+"Continental, North Indian, Chinese",3.4
+"Italian, Chinese, Fast Food",3.4
+"Bakery, Fast Food",3.4
+"South Indian, North Indian, Chinese",3.4
+"Fast Food, Healthy Food, Sandwich, Salad",3.4
+"Fast Food, Momos",3.4
+"Bakery, Mishti",3.4
+"Thai, Mexican, Italian, Chinese",3.4
+"Pizza, Bakery, Desserts",3.4
+"Beverages, Bakery",3.3
+"Tibetan, North Indian, Chinese",3.3
+"North Indian, Mughlai",3.3
+Paan,3.3
+Juices,3.3
+"North Indian, Chinese, Continental",3.3
+"Mithai, Street Food",3.3
+"Mughlai, Chinese, Indian, Afghan",3.3
+"Finger Food, North Eastern",3.3
+"Street Food, South Indian",3.3
+"Assamese, Chinese",3.3
+"Fast Food, Mithai",3.2
+"Fast Food, Chinese, Bakery, North Indian",3.2
+"Mithai, Fast Food, Street Food",3.2
+"Desserts, Street Food",3.2
+"Juices, Fast Food",3.2
+"Assamese, North Indian",3.2
+"Cafe, Sandwich",3.2
+"Desserts, Mithai",3.1
+Chinese,3.1
+"Desserts, South Indian, Street Food",3.1
+"Chinese, North Indian, South Indian",3.1
+"Mithai, Desserts, Bakery",3.1
+"Mithai, Bakery",3.1
+"Mithai, North Indian",3.1
+"Ice Cream, Beverages",3.1
+"North Indian, South Indian, Chinese",3.0
+"Fast Food, Desserts, Bakery",3.0
+"North Indian, Mithai",3.0
+"Chinese, Rolls, Momos",3.0
+Cafe,3.0
+"Beverages, Cafe, Sandwich, Fast Food",3.0
+Indian,3.0
+Mishti,3.0
+"Biryani, Chinese",2.9
+Momos,2.9
+"North Indian, Chinese, Asian",2.9
+"North Indian, Street Food",2.9
+"Biryani, Mughlai",2.9
+"South Indian, North Indian",2.9
+"Biryani, Hyderabadi, Chinese",2.9
+"North Indian, Fast Food, Biryani",2.9
+"South Indian, Chinese",2.9
+"Street Food, Juices",2.9
+"North Indian, Chinese, Street Food",2.9
+"Fast Food, Sandwich",2.9
+"North Indian, Chinese",2.9
+"Desserts, Bakery, Mithai",2.9
+"Ice Cream, Desserts, Beverages",2.8
+"Cafe, Bakery",2.8
+"Chinese, Indian, Mughlai",2.8
+Mughlai,2.8
+"Mithai, Fast Food",2.8
+"Mithai, North Indian, Chinese",2.7
+"Fast Food, Chinese, North Indian",2.7
+"Fast Food, Chinese",2.7
+"Chinese, Fast Food, Rolls",2.7
+"Assamese, North Eastern",2.7
+"Fast Food, Biryani",2.7
+"South Indian, North Indian, Mithai, Chinese",2.7
+"Fast Food",2.6
+"Street Food, North Indian, Chinese, Fast Food",2.6
+"North Indian",2.6
+"Assamese, North Indian, Fast Food",2.6
+Desserts,2.6
+"Bakery, Desserts",2.6
+"Fast Food, North Indian",2.5
+"North Indian, Chinese, South Indian",2.5
+"North Indian, Seafood, Chinese, Assamese, South Indian",2.5
+"Finger Food",2.5
+Bakery,2.3
+"Ice Cream, Desserts",2.3
+"Rolls, Chinese",2.1
+"North Indian, Fast Food",2.1
+Mithai,2.1
+"Street Food",2.1
+"Fast Food, Beverages",2.0
+"North Indian, Finger Food",2.0
+"North Indian, South Indian",1.5
+"South Indian, North Indian, Continental, Chinese",1.5
+Beverages,1.1
+"Beverages, Juices",0.0
+"Chinese, Naga, North Eastern",0.0
+"Bakery, Fast Food, Mithai",0.0
+"North Indian, Chinese, Finger Food",0.0
+"Fast Food, Rolls",0.0
+"Mithai, Chinese, Bakery",0.0
+"Juices, Coffee, Cafe",0.0
+"Biryani, Chinese, Fast Food",0.0
+"Fast Food, North Indian, Chinese",0.0
+"Juices, Beverages",0.0
+"Roast Chicken, Charcoal Chicken, BBQ",0.0
+"Sandwich, North Indian, Chinese, Burger, Assamese",0.0
+"South Indian, North Indian, North Eastern",0.0
+"Kebab, North Indian",0.0
+"Fast Food, Bakery",0.0
+"Chinese, Indian",0.0
+"Desserts, Bakery",0.0
+Tea,0.0
+"Cafe, Continental",0.0
