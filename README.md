@@ -28,10 +28,10 @@ The dataset was collected from Kaggle. The dataset shows Zomato restaurants (all
 ### <u>**[Check out the full SQL file](https://raw.githubusercontent.com/aayushmanmukherjee/RestaurantAnalysis/refs/heads/main/queries.sql)**</u>
 
 ## Analysis using Tableau
-![Demo picture 1](./demo_1.png)
-![Demo picture 2](./demo_2.png)
+![Dashboard picture](./Dashboard.png)
 
-### <u>**[Check out the Tableau dashboard](https://public.tableau.com/views/ghy_restaurants_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**</u>
+
+### <u>**[Check out the Tableau dashboard](https://public.tableau.com/views/ghy_restaurants_dashboard/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**</u>
 
 ## Conclusion
 
@@ -42,7 +42,7 @@ The dataset was collected from Kaggle. The dataset shows Zomato restaurants (all
 
 ## All the important links
 - ### [SQL file link](https://raw.githubusercontent.com/aayushmanmukherjee/RestaurantAnalysis/refs/heads/main/queries.sql)
-- ### [Tableau dashboard link](https://public.tableau.com/views/ghy_restaurants_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- ### [Tableau dashboard link](https://public.tableau.com/views/ghy_restaurants_dashboard/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - ### [Jupyter notebook link](https://github.com/aayushmanmukherjee/RestaurantAnalysis/blob/main/analysis.ipynb)
 
 
